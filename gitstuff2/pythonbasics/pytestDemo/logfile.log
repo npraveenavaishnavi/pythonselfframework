@@ -1,6 +1,0 @@
-
-2023-04-18 14:52:24,820:WARNING:pythonbasics.pytestDemo.test_logs:Something is in warning mode
-2023-04-18 14:52:24,820:ERROR:pythonbasics.pytestDemo.test_logs:A major error has happened
-2023-04-18 14:52:24,820:CRITICAL:pythonbasics.pytestDemo.test_logs:critcal issue
-2023-04-18 14:54:02,959:INFO:test_editprofile:Praveena
-2023-04-18 14:54:02,959:INFO:test_editprofile:vaishu2503@gmail.com
